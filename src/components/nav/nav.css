@@ -32,3 +32,449 @@ nav a.active {
     color: var(--color-bg);
 }
 
+
+@media screen and (max-width:1960px){
+    nav {
+        background: rgba(0,0,0,0.3);
+        width: max-content;
+        display: block;
+        padding: 0.7rem 1.7rem;
+        z-index: 2;
+        position: fixed;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: 2rem;
+        display: flex;
+        gap: 0.8rem;
+        border-radius: 3rem;
+        backdrop-filter: blur(15px);
+    }
+    
+    nav a{
+        background: transparent;
+        padding: 0.9rem;
+        border-radius: 50%;
+        display: flex;
+        color: var(--color-light);
+        font-size: 1.3rem;
+    }
+    
+    nav a:hover {
+        background: rgba(0,0,0,0.3) ;
+    }
+    
+    nav a.active {
+        background: var(--color-primary);
+        color: var(--color-bg);
+    }
+}
+
+
+@media screen and (max-width:1600px){
+    nav {
+        background: rgba(0,0,0,0.3);
+        width: max-content;
+        display: block;
+        padding: 0.7rem 1.7rem;
+        z-index: 2;
+        position: fixed;
+        left: 50%;
+        transform: translateX(-60%);
+        bottom: 2rem;
+        display: flex;
+        gap: 0.8rem;
+        border-radius: 3rem;
+        backdrop-filter: blur(15px);
+    }
+    
+    nav a{
+        background: transparent;
+        padding: 0.9rem;
+        border-radius: 50%;
+        display: flex;
+        color: var(--color-light);
+        font-size: 1.3rem;
+    }
+    
+    nav a:hover {
+        background: rgba(0,0,0,0.3) ;
+    }
+    
+    nav a.active {
+        background: var(--color-primary);
+        color: var(--color-bg);
+    }
+}
+
+@media screen and (max-width:1024px){
+    nav {
+        background: rgba(0,0,0,0.3);
+        width: max-content;
+        display: block;
+        padding: 0.7rem 1.7rem;
+        z-index: 2;
+        position: fixed;
+        left: 50%;
+        transform: translateX(-105%);
+        bottom: 2rem;
+        display: flex;
+        gap: 0.8rem;
+        border-radius: 3rem;
+        backdrop-filter: blur(15px);
+    }
+    
+    nav a{
+        background: transparent;
+        padding: 0.9rem;
+        border-radius: 50%;
+        display: flex;
+        color: var(--color-light);
+        font-size: 1.3rem;
+    }
+    
+    nav a:hover {
+        background: rgba(0,0,0,0.3) ;
+    }
+    
+    nav a.active {
+        background: var(--color-primary);
+        color: var(--color-bg);
+    }
+    
+
+
+}
+
+@media screen and (max-width:810px){
+    nav {
+        background: rgba(0,0,0,0.3);
+        width: max-content;
+        display: block;
+        padding: 0.7rem 1.7rem;
+        z-index: 2;
+        position: fixed;
+        left: 50%;
+        transform: translateX(-95%);
+        bottom: 2rem;
+        display: flex;
+        gap: 0.8rem;
+        border-radius: 3rem;
+        backdrop-filter: blur(15px);
+    }
+    
+    nav a{
+        background: transparent;
+        padding: 0.9rem;
+        border-radius: 50%;
+        display: flex;
+        color: var(--color-light);
+        font-size: 1.3rem;
+    }
+    
+    nav a:hover {
+        background: rgba(0,0,0,0.3) ;
+    }
+    
+    nav a.active {
+        background: var(--color-primary);
+        color: var(--color-bg);
+    }
+    
+
+}
+
+@media screen and (max-width:800px){
+
+    nav {
+        background: rgba(0,0,0,0.3);
+        width: max-content;
+        display: block;
+        padding: 0.7rem 1.7rem;
+        z-index: 2;
+        position: fixed;
+        left: 50%;
+        transform: translateX(-85%);
+        bottom: 2rem;
+        display: flex;
+        gap: 0.8rem;
+        border-radius: 3rem;
+        backdrop-filter: blur(15px);
+    }
+    
+    nav a{
+        background: transparent;
+        padding: 0.9rem;
+        border-radius: 50%;
+        display: flex;
+        color: var(--color-light);
+        font-size: 1.3rem;
+    }
+    
+    nav a:hover {
+        background: rgba(0,0,0,0.3) ;
+    }
+    
+    nav a.active {
+        background: var(--color-primary);
+        color: var(--color-bg);
+    }
+
+}
+
+/* ================== MEDIA QUERIES (SMALL DEVICES) ================== */
+
+@media screen and (max-width:600px){
+    nav {
+        background: rgba(0,0,0,0.3);
+        width: max-content;
+        display: block;
+        padding: 0.7rem 1.7rem;
+        z-index: 2;
+        position: fixed;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: 2rem;
+        display: flex;
+        gap: 0.8rem;
+        border-radius: 3rem;
+        backdrop-filter: blur(15px);
+    }
+    
+    nav a{
+        background: transparent;
+        padding: 0.9rem;
+        border-radius: 50%;
+        display: flex;
+        color: var(--color-light);
+        font-size: 1.3rem;
+    }
+    
+    nav a:hover {
+        background: rgba(0,0,0,0.3) ;
+    }
+    
+    nav a.active {
+        background: var(--color-primary);
+        color: var(--color-bg);
+    }
+}
+
+@media screen and (max-width:500px){
+    nav {
+        background: rgba(0,0,0,0.3);
+        width: max-content;
+        display: block;
+        padding: 0.7rem 1.7rem;
+        z-index: 2;
+        position: fixed;
+        left: 50%;
+        transform: translateX(-65%);
+        bottom: 2rem;
+        display: flex;
+        gap: 0.8rem;
+        border-radius: 3rem;
+        backdrop-filter: blur(15px);
+    }
+    
+    nav a{
+        background: transparent;
+        padding: 0.9rem;
+        border-radius: 50%;
+        display: flex;
+        color: var(--color-light);
+        font-size: 1.3rem;
+    }
+    
+    nav a:hover {
+        background: rgba(0,0,0,0.3) ;
+    }
+    
+    nav a.active {
+        background: var(--color-primary);
+        color: var(--color-bg);
+    }
+}
+
+@media screen and (max-width:428px){
+    nav {
+        background: rgba(0,0,0,0.3);
+        width: max-content;
+        display: block;
+        padding: 0.7rem 1.7rem;
+        z-index: 2;
+        position: fixed;
+        left: 50%;
+        transform: translateX(-75%);
+        bottom: 2rem;
+        display: flex;
+        gap: 0.8rem;
+        border-radius: 3rem;
+        backdrop-filter: blur(15px);
+    }
+    
+    nav a{
+        background: transparent;
+        padding: 0.9rem;
+        border-radius: 50%;
+        display: flex;
+        color: var(--color-light);
+        font-size: 1.3rem;
+    }
+    
+    nav a:hover {
+        background: rgba(0,0,0,0.3) ;
+    }
+    
+    nav a.active {
+        background: var(--color-primary);
+        color: var(--color-bg);
+    }
+}
+
+
+
+@media screen and (max-width:412px){
+    nav {
+        background: rgba(0,0,0,0.3);
+        width: max-content;
+        display: block;
+        padding: 0.7rem 1.7rem;
+        z-index: 2;
+        position: fixed;
+        left: 50%;
+        transform: translateX(-75%);
+        bottom: 2rem;
+        display: flex;
+        gap: 0.8rem;
+        border-radius: 3rem;
+        backdrop-filter: blur(15px);
+    }
+    
+    nav a{
+        background: transparent;
+        padding: 0.9rem;
+        border-radius: 50%;
+        display: flex;
+        color: var(--color-light);
+        font-size: 1.3rem;
+    }
+    
+    nav a:hover {
+        background: rgba(0,0,0,0.3) ;
+    }
+    
+    nav a.active {
+        background: var(--color-primary);
+        color: var(--color-bg);
+    }
+}
+
+
+
+
+@media screen and (max-width:384px){
+    nav {
+        background: rgba(0,0,0,0.3);
+        width: max-content;
+        display: block;
+        padding: 0.7rem 1.7rem;
+        z-index: 2;
+        position: fixed;
+        left: 50%;
+        transform: translateX(-82%);
+        bottom: 2rem;
+        display: flex;
+        gap: 0.8rem;
+        border-radius: 3rem;
+        backdrop-filter: blur(15px);
+    }
+    
+    nav a{
+        background: transparent;
+        padding: 0.9rem;
+        border-radius: 50%;
+        display: flex;
+        color: var(--color-light);
+        font-size: 1.3rem;
+    }
+    
+    nav a:hover {
+        background: rgba(0,0,0,0.3) ;
+    }
+    
+    nav a.active {
+        background: var(--color-primary);
+        color: var(--color-bg);
+    }
+}
+@media screen and (max-width:375px){
+    nav {
+        background: rgba(0,0,0,0.3);
+        width: max-content;
+        display: block;
+        padding: 0.7rem 1.7rem;
+        z-index: 2;
+        position: fixed;
+        left: 50%;
+        transform: translateX(-85%);
+        bottom: 2rem;
+        display: flex;
+        gap: 0.8rem;
+        border-radius: 3rem;
+        backdrop-filter: blur(15px);
+    }
+    
+    nav a{
+        background: transparent;
+        padding: 0.9rem;
+        border-radius: 50%;
+        display: flex;
+        color: var(--color-light);
+        font-size: 1.3rem;
+    }
+    
+    nav a:hover {
+        background: rgba(0,0,0,0.3) ;
+    }
+    
+    nav a.active {
+        background: var(--color-primary);
+        color: var(--color-bg);
+    }
+}
+
+@media screen and (max-width:360px){
+    nav {
+        background: rgba(0,0,0,0.3);
+        width: max-content;
+        display: block;
+        padding: 0.7rem 1.7rem;
+        z-index: 2;
+        position: fixed;
+        left: 50%;
+        transform: translateX(-85%);
+        bottom: 2rem;
+        display: flex;
+        gap: 0.8rem;
+        border-radius: 3rem;
+        backdrop-filter: blur(15px);
+    }
+    
+    nav a{
+        background: transparent;
+        padding: 0.9rem;
+        border-radius: 50%;
+        display: flex;
+        color: var(--color-light);
+        font-size: 1.3rem;
+    }
+    
+    nav a:hover {
+        background: rgba(0,0,0,0.3) ;
+    }
+    
+    nav a.active {
+        background: var(--color-primary);
+        color: var(--color-bg);
+    }
+}

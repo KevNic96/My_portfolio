@@ -95,7 +95,7 @@
 
 
 /* ================== MEDIA QUERIES (MEDIUM DEVICES) ================== */
-@media screen and (max-width:1958px){
+@media screen and (max-width:1960px){
     .about__content p{
         position: absolute;
         display: block;
