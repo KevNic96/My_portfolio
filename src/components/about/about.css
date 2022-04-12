@@ -421,7 +421,7 @@
     .about__content p{
         display: flex;
         width: 100%;
-        top: 1250px;
+        top: 1350px;
         text-align: center;
         right: 5%;
     }
@@ -437,7 +437,7 @@
         left: 35px;
         right: auto;
         gap: 1.2rem;
-        top:1500px;
+        top:1550px;
 
     }
 }
