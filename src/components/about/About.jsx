@@ -7,7 +7,7 @@ import {AiFillSchedule} from 'react-icons/ai'
 import {BsPenFill} from 'react-icons/bs'
 import {FaComments} from 'react-icons/fa'
 import {BsFillGearFill} from 'react-icons/bs'
-import CV from '../../assets/CV_Kevin_Flores.pdf'
+import CV from '../../assets/CV__Kevin_Flores.pdf'
 import {FaFilePdf} from 'react-icons/fa'
 
 const About = () => {
